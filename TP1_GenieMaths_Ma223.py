@@ -265,7 +265,6 @@ EPVp = []
 EPVt = []
 
 for n in range(1,502,50):
-    print('\n_______________________\nLe prof la grosse CHIENNE\n_______________________\n')
     A = np.random.rand(n, n)
     B = np.random.rand(n, 1)
     C = np.copy(A)
